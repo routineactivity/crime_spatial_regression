@@ -14,7 +14,7 @@ output:
 
 A non-exhaustive walk through is provided for those wishing to apply spatial regression analysis in their work. These techniques can help understand geographical patterns of crime or public safety problems. This may be of most interest for analysts working in or closely with Community Safety Partnerships, Violence Reduction Units or in strategic roles where there are opportunities to inform changes in policies and crime prevention plans.
 
-For a comprehensive accessible guide on approaches and theory I would highly recommend [Chainey, S. (2020). Understanding crime : analyzing the geography of crime. Redlands, California: Esri Press.](https://www.amazon.co.uk/Understanding-Crime-Analyzing-Geography/dp/158948584X), Chapter 8: Applying spatial regression analysis to crime data. Further resources are included at the end of this guide.
+For a comprehensive accessible guide on approaches and theory I would highly recommend [Chainey, S. (2020). Understanding crime : analyzing the geography of crime. Redlands, California: Esri Press.](https://www.amazon.co.uk/Understanding-Crime-Analyzing-Geography/dp/158948584X){:target="_blank"}, Chapter 8: Applying spatial regression analysis to crime data. Further resources are included at the end of this guide.
 
 
 For this walk through I created an aggregated data set using Census Output Area (COA) areal units covering the Teesside Urban Area. The significant majority of COAs contain between 110-139 households. The data set includes:
